@@ -6,3 +6,5 @@
 - ⚡ Fun fact: I hate chocolate
 - 📫 How to reach me: email at [diazabdulm@gmail.com](mailto:diazabdulm@gmail.com)
 - 💬 Yes, I'm open for employment.
+
+![](https://github-readme-stats.vercel.app/api?username=diazabdulm&show_icons=true&count_private=true)
